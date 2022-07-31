@@ -1,7 +1,7 @@
 {
   "name": "@halo-dev/astro-halo-theme-integration",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Astro Halo theme integration",
   "author": "@halo-dev",
   "license": "MIT",
