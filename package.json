@@ -1,16 +1,16 @@
 {
-  "name": "@halo-dev/astro-halo-theme-integration",
+  "name": "@xirizhi/astro-halo-theme-integration",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Astro Halo theme integration",
-  "author": "@halo-dev",
+  "author": "@xirizhi",
   "license": "MIT",
-  "homepage": "https://github.com/ruibaby/astro-halo-theme-integration#readme",
+  "homepage": "https://github.com/guicaiyue/astro-halo-theme-integration#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ruibaby/astro-halo-theme-integration.git"
+    "url": "git+https://github.com/guicaiyue/astro-halo-theme-integration.git"
   },
-  "bugs": "https://github.com/ruibaby/astro-halo-theme-integration/issues",
+  "bugs": "https://github.com/guicaiyue/astro-halo-theme-integration/issues",
   "keywords": [
     "halo-theme",
     "astro",
@@ -48,11 +48,11 @@
     "@types/node": "16.11.47",
     "@typescript-eslint/eslint-plugin": "^5.31.0",
     "@typescript-eslint/parser": "^5.31.0",
-    "astro": "1.0.0-rc.3",
+    "astro": "5.5.2",
     "bumpp": "^8.2.1",
+    "cheerio": "1.0.0-rc.12",
     "eslint": "^8.20.0",
     "typescript": "^4.7.4",
-    "unbuild": "^0.7.6",
-    "cheerio": "1.0.0-rc.12"
+    "unbuild": "^0.7.6"
   }
 }

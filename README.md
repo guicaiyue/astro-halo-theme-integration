@@ -1,1 +1,1 @@
-# @halo-dev/astro-halo-theme
+# @xirizhi/astro-halo-theme
